@@ -36,5 +36,10 @@ namespace Common
 
         // skill  技能目标 附体
 
+        public void AttachSkill(Skill skill, TargetPoint target)
+        {
+
+        }
+
     }
 }
